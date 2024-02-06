@@ -1,0 +1,396 @@
+overleaf.com
+
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% LinkedIn : http://www.linkedin.com/in/shivangam-mahajan
+% Github : https://github.com/shivangam-git
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Hemanth Battarusetty}} & Email: \href{mailto:}{bkhemanth17@gmail.com}\\
+  \href{https://www.linkedin.com/in/hemanth-battarusetty-263113188/}
+  {Linkedin: linkedin.com} & Mobile:~+91-8688195377 \\
+  \href{https://github.com/bkhemanth17s}{Github: ~~github.com/Hemanth} \\
+  
+\end{tabular*}
+
+%-----------OBJECTIVE---------------------
+\section{Career Objective}
+   {\scriptsize \textit{ \footnotesize{\newline{}\textbf{}• My goal is to become a proficient in SDE with devops practices and specializing in Java, Python, Terraform, and Linux. Worked on Jenkins and good experienced in writing ci/cd pipelines also has experienced on Microservices Architecture like Docker. I am eager to contribute innovative solutions to web development projects, driven by a passion for excellence and continuous learning. }}}
+%-----------EDUCATION-----------------
+\vspace{5pt}
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {SRM UNIVERSITY}{Chennai, Tamilnadu}
+      {B.Tech;  CGPA: 9.03}{June 2019 - May 2023}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Data Structures and Algorithms, Operating System, Database Management System, Compiler design, Artificial Intelligence,
+      Artificial Neural Networks, Computer Vision, Design and Analysis of Algorithms,OOPS, Application Programing Practices. 
+  }}}
+    
+  \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Programming Languages}{~Java, Python.}
+        \resumeSubItem{Cloud technologies}{~~~~~ AWS, Azure. }
+	\resumeSubItem{Database Technologies}{~~~ MySQL.}
+        \resumeSubItem{Tools}{~~~~~~~~~~~Git, GitHub, Maven, Jenkins, Ansible, Docker, Kubernetes.}
+        \resumeSubItem{Operating Systems}{~~~~~Linux, Windows}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------full part--------------------------------------------------------------------------------------
+
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% LinkedIn : http://www.linkedin.com/in/shivangam-mahajan
+% Github : https://github.com/shivangam-git
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Abhishek Sriramoju}} & Email: \href{mailto:}{sriramojuabhishek264@gmail.com}\\
+  \href{https://www.linkedin.com/in/abhishek-sriramoju-b82539198/}
+  {Linkedin: linkedin.com} & Mobile:~+91-7893155755 \\
+  \href{https://github.com/Abhishek-1258?tab=repositories}{Github: ~~github.com/Abhishek} \\
+  
+\end{tabular*}
+
+%-----------OBJECTIVE---------------------
+\section{Career Objective}
+   {\scriptsize \textit{ \footnotesize{\newline{}\textbf{}• My goal is to become a proficient web developer, specializing in Java, Python, Kotlin, and JavaScript. With experience in frameworks like Spring Boot, and React I am eager to contribute innovative solutions to web development projects, driven by a passion for excellence and continuous learning. }}}
+%-----------EDUCATION-----------------
+\vspace{5pt}
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {SRM UNIVERSITY}{Chennai, Tamilnadu}
+      {B.Tech;  CGPA: 9.31}{June 2019 - May 2023}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Data Structures and Algorithms, Operating System, Database Management System, Compiler design, Artificial Intelligence,
+      Information Storage and Management, Data Mining and Analytics, Design and Analysis of Algorithms,OOPS, Application Programing Practices  }}}
+    
+  \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Programming Languages}{~Java, Python, Kotlin}
+        \resumeSubItem{Web technologies}{~~~~~ HTML5, CSS, JavaScript, Bootstrap, React, Spring Boot. }
+	\resumeSubItem{Database Technologies}{~~~PostgreSQL, MySQL,SQLite}
+        \resumeSubItem{Tools}{~~~~~~~~~~~Git, Bit bucket, GitHub, Docker}
+        \resumeSubItem{Operating Systems}{~~~~~Linux, Windows}
+    
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Sequentum}{On Site}
+    {Python Developer (Full time)}{July 2023 - present}
+    \resumeItemListStart
+        \resumeItem{}
+        {Developed an automation script that effectively managed the analysis of data for a workload involving around 200 agents.}
+         \resumeItem{}
+         {Optimized file processing workflows through thorough testing and debugging, ensuring enhanced reliability and efficiency.}
+          \resumeItem{}
+          {Contributed to the team by providing technical support and made smooth script utilization.}
+    \resumeItemListEnd
+  \resumeSubHeadingListEnd
+\vspace{-10pt}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Sleevesup}{On Site}
+    {Software Engineer (Internship)}{Jan 2023 - April 2023}
+    \resumeItemListStart
+        \resumeItem{}
+          {Developed proficiency in web development technologies, including HTML, CSS, JavaScript, and React.}
+         \resumeItem{}
+         {Gained experience in back-end development with Kotlin, Spring Boot, and PostgreSQL including creating Restful APIs and integrating with databases.}
+          \resumeItem{}
+          {Gained knowledge of version control using Git.}
+    \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+  \resumeSubHeadingListStart
+    \resumeSubheading{Coding Ninjas}{remote}
+    {Teaching Assistant (Internship)}{May 2023 - July 2023}
+    \resumeItemListStart
+        \resumeItem{}
+          {Teaching Assistant for Data Structures and Algorithms at Coding Ninjas}
+        \resumeItem{}
+          {Duties : As a Teaching Assistant intern, I collaborated with students  and provided one-on-one support}
+    \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+  
+
+
+    
+\vspace{-5pt}
+    
+% \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{Projects}
+
+
+
+\resumeSubHeadingListStart
+
+    \resumeSubItem{ Automation Script}{}
+    
+        \resumeItemListStart
+            \resumeItem{}
+              {Designed an automation script that efficiently monitored the data analysis for a task requiring over 200 agents.}
+              \resumeItem{}
+              {Enhanced dependability and efficiency were ensured by carefully testing and troubleshooting file processing operations.}
+              \resumeItem{}
+              {Tools used : boto3,Numpy,Pandas, smptplib}
+        \resumeItemListEnd
+    \vspace{2pt}
+    
+    \resumeSubItem{ Ticket Management System}{}
+    
+        \resumeItemListStart
+            \resumeItem{}
+              {Designed and developed an end-to-end Ticket Management System using Kotlin, React, and PostgreSQL}
+              \resumeItem{}
+              {Implemented features including ticket creation, updating, archiving, and retrieval of single/multiple tickets ticket ID.}
+              \resumeItem{}
+              {Created a user management system to assign tickets to users and reporters of the Assignee. }
+              \resumeItem{}
+               {Used PostgreSQL as the back-end storage system.}
+        \resumeItemListEnd
+    \vspace{2pt}
+
+    \resumeSubItem{Music Genre Classification Using KNN}{}
+    
+        \resumeItemListStart
+            \resumeItem{}
+              { Developed a music genre classification system using the K-Nearest Neighbor (KNN) algorithm to accurately classify the
+genre of a given audio file.}
+            \resumeItem{}
+             { Preprocessed audio files using Librosa library to extract audio features such as tempo, beat, and melody. }
+            \resumeItem{}
+              {Implemented KNN algorithm to classify audio files based on the extracted audio features. }
+            \resumeItem{}
+               {This project involved pre-processing the audio data, feature extraction, and model training and testing.}
+        \resumeItemListEnd
+    \resumeSubHeadingListEnd
+    \vspace{2pt}
+
+
+      
+      
+\vspace{-5pt}
+
+
+
+% \vspace{-5pt}
+%-----------POSITION OF DEVETION-----------------
+\vspace{-5pt}
+\section{Publications}
+\resumeSubHeadingListStart
+    
+     \resumeItemListStart
+            \resumeItem{Paper: Devanagri Character Image Recognition and Conversion into Text using Long Short Term Memory}
+            {Published the paper at IEEE Xplore in Feb 2023 Tools: Python3, Numpy, pandas, matplotlib, Sci-kit-learn, TensorFlow}
+            \resumeItem{Paper: Detecting Diseases in Gastrointestinal Biospy images using CNN }
+            {Published the paper at IFERP in July 2023 }
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+%
+% \vspace{-5pt}
+% %-----------Awards-----------------
+% \section{Honors and Awards}
+% \begin{description}[font=$\bullet$]
+% \item {Awarded title of Intel Software Innovator - May, 2019}
+% \vspace{-5pt}
+% \item {Second Runner's Up at TCS EngiNx Engineering Project Innovation Content - September, 2018 }
+% \vspace{-5pt}
+% \item {Runner's Up at Facebook Developers Circle Hackathon - August, 2017}
+
+% \end{description}
+
+% \vspace{-5pt}
+% \section{Volunteer Experience}
+%   \resumeSubHeadingListStart
+% 	\resumeSubheading
+%     {Community Lead at Developer Student Clubs NSEC}{Kolkata, India}
+%     {Conducted online and offline technical \& soft-skills training impacting over 3000 students.}{Jan 2019 - Present}
+% \vspace{5pt}
+%     % \vspace{10pt}\textbf{\large{Community Experience}}
+%     \resumeSubheading
+%     {Event Organizer at Google Developers Group Kolkata}{Kolkata, India}
+%     {Organized events, conducted workshops and delivered workshops reaching over 7000 developers.}{Jan 2018 - Present}
+
+% \resumeSubHeadingListEnd
+
+\end{document}
